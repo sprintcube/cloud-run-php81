@@ -1,0 +1,7 @@
+# cloud-run-php81
+
+PHP 8.1 with Apache for Google Cloud Run
+
+docker build -t sprintcube/cloud-run-php81 .
+
+docker image push sprintcube/cloud-run-php81:latest
